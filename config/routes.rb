@@ -1,8 +1,5 @@
 Rails.application.routes.draw do
   
-  get 'golden/name'
-
-  get 'golden/age'
 
   get 'static_pages/home'
 
