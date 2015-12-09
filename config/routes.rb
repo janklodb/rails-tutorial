@@ -1,5 +1,13 @@
 Rails.application.routes.draw do
   
+  get 'golden/name'
+
+  get 'golden/age'
+
+  get 'static_pages/home'
+
+  get 'static_pages/help'
+
   root 'application#hello'
   
   # The priority is based upon order of creation: first created -> highest priority.

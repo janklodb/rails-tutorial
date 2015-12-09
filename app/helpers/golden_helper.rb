@@ -1,0 +1,2 @@
+module GoldenHelper
+end
